@@ -1,0 +1,4 @@
+Running: xsim.dir/svga_behav/xsimk.exe -simmode gui -wdb svga_behav.wdb -simrunnum 0 -socket 64488
+Design successfully loaded
+Design Loading Memory Usage: 6156 KB (Peak: 6156 KB)
+Design Loading CPU Usage: 62 ms

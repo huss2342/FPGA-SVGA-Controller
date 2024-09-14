@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Lab 2.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_sim_netlist.vhdl" \
+"../../../../Lab 2.srcs/sources_1/new/svga.vhd" \
+
+# Do not sort compile order
+nosort
